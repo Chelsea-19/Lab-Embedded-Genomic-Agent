@@ -22,7 +22,7 @@ This tool does not just output numbers; it provides **actionable decision suppor
 
 The system operates on a three-tier architecture designed to decouple heavy inference from local decision-making.
 
-![System Architecture](docs/fig. 1.jpg)
+![System Architecture](docs/fig.jpg)
 *(Fig 1. Tiered Architecture: From HPC Foundation to Edge Deployment)*
 
 * **Tier 1: HPC Foundation (Teacher Model)**
